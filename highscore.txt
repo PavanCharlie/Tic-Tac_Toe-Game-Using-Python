@@ -1,0 +1,43 @@
+Name		Wins		Lost		Tie
+Computer		0		0		0
+Alpha		5		2		3
+Pavan		5		0		2
+Megha		0		5		2
+Megha		0		4		9
+Charlie		4		0		9
+megha 		12		0		2
+gayathri		0		12		2
+Megha		16		2		2
+Gayathri		2		16		2
+Player 1 (X)		0		1		0
+Player 2 (O)		1		0		0
+Player 1 (X)		0		0		0
+Player 2 (O)		0		0		0
+megha		2		4		18
+gayathri		4		2		18
+Megha		3		0		3
+Gayathri		0		3		3
+megha		1		0		2
+Pavan		0		1		2
+megha 		2		3		16
+Charlie		3		2		16
+megha		22		11		28
+gayathri		11		22		28
+Charlie (bot)		0		1		0
+Player 2 (o)		1		0		0
+Charlie (bot)		0		1		0
+Player 2 (o)		1		0		0
+Charlie (bot)		1		0		0
+Player 		0		1		0
+Player 1 (x)		2		3		2
+Player 2 (o)		3		2		2
+Harish		0		2		3
+Charlie		2		0		3
+Manoj		0		1		1
+Charlie		1		0		1
+Manoj		0		0		0
+Charlie		0		0		0
+Manoj		1		2		6
+Charlie		2		1		6
+Pavan		0		0		0
+Alam		0		0		0
